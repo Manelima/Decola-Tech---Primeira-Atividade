@@ -1,6 +1,5 @@
 # Decola Tech 2025
-Primeiro Desafio do Decola Tech
-RESTful API da Santander Dev Week 2023 construída em Java 17 com Spring Boot 3.
+Primeiro Desafio de código do Decola Tech 2025, uma RESTful API da Santander Dev Week de 2023 construída em Java 17 com Spring Boot 3.
 
 ## Diagrama de Classes
 ```mermaid

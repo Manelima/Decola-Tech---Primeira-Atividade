@@ -1,4 +1,4 @@
-/* package dio.decolatech.decolatech_2025.controller.exception;
+/*package dio.decolatech.decolatech_2025.controller.exception;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -32,4 +32,4 @@ public class GlobalExceptionHandler {
     }
 }
 
- */
+*/

@@ -39,3 +39,5 @@ classDiagram
     User "1" --> "1" Card
     User "1" --> "N" News
 ```
+##Status
+-Desativado pelo fim do Trial do Railway
